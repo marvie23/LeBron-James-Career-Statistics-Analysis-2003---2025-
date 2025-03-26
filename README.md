@@ -33,7 +33,7 @@ The main objectives of this analysis are:
 -  **Data Source** – NBA statistics dataset containing LeBron James’ career data.  
 
 ### **Methodology**  
-1. **Web Scraping** – Historical NBA statistics for LeBron James from 2003-2025 were gathered.  
+1. **Web Scraping** – The Dataset was scrapped from Statmuse.com.  
 2. **Data Cleaning** – The dataset was processed to remove duplicates and ensure accuracy.  
 3. **Data Visualization** – Power BI was used to create a dashboard displaying key career statistics.  
 4. **Analysis** – Different visualizations were created, including line charts, bar charts, and KPI metrics to track career trends.  
